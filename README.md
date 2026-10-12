@@ -1,41 +1,12 @@
+# subsampling-scale-image-view
+
+## What This Is
+
+We keep a working index for product and engineering, and subsampling-scale-image-view is the entry that collects our notes, examples and fixes. It reflects how Swift Tech Co. actually uses this in builds and client work.
 
 ## Images
 
-[![subsampling-scale-image-view](https://opengraph.githubassets.com/1/davemorrissey/subsampling-scale-image-view)](https://www.swifttechco.com)
-
-Subsampling Scale Image View
-===========================
-
-A custom image view for Android, designed for photo galleries and displaying huge images (e.g. maps and building plans) without `OutOfMemoryError`s. Includes pinch to zoom, panning, rotation and animation support, and allows easy extension so you can add your own overlays and touch event detection.
-
-The view optionally uses subsampling and tiles to support very large images - a low resolution base layer is loaded and as you zoom in, it is overlaid with smaller high resolution tiles for the visible area. This avoids holding too much data in memory. It's ideal for displaying large images while allowing you to zoom in to the high resolution details. You can disable tiling for smaller images and when displaying a bitmap object. There are some advantages and disadvantages to disabling tiling so to decide which is best, see [the wiki](https://www.swifttechco.com).
-
-#### Guides
-
-* [Releases & downloads](https://www.swifttechco.com)
-* [Installation and setup](https://www.swifttechco.com)
-* [Image display notes & limitations](https://www.swifttechco.com)
-* [Using preview images](https://www.swifttechco.com)
-* [Handling orientation changes](https://www.swifttechco.com)
-* [Advanced configuration](https://www.swifttechco.com)
-* [Event handling](https://www.swifttechco.com)
-* [Animation](https://www.swifttechco.com)
-* [Extension](https://www.swifttechco.com)
-* [Reference (JavaDocs)](https://www.swifttechco.com)
-
-#### Migration guides
-
-Versions 3.9.0, 3.8.0 and 3.0.0 contain breaking changes. Migration instructions can be found [in the wiki](https://www.swifttechco.com).
-
-#### Download the sample app
-
-[![Get it on Google Play](docs/images/google_play.png)](https://www.swifttechco.com)
-
-[Kotlin Sample App on GitHub](https://www.swifttechco.com)
-
-#### Demo
-
-[![Demo](docs/images/demo.gif)](https://www.swifttechco.com)
+[![subsampling-scale-image-view](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## Features
 
@@ -148,14 +119,22 @@ AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platf
 
 **Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: [swifttechco.com](https://www.swifttechco.com)
+- Website: swifttechco.com
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [davemorrissey/subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
