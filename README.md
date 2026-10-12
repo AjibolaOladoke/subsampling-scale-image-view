@@ -6,7 +6,7 @@ We keep a working index for product and engineering, and subsampling-scale-image
 
 ## Images
 
-[![subsampling-scale-image-view](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![subsampling-scale-image-view](images/preview.png)](https://github.com/Swift-Tech-Co/subsampling-scale-image-view)
 
 ## Features
 
@@ -75,7 +75,7 @@ dependencies {
 **2)** Add the view to your layout XML.
 
 ```xml
-<LinearLayout xmlns:android="https://www.swifttechco.com"
+<LinearLayout xmlns:android="https://github.com/Swift-Tech-Co/subsampling-scale-image-view"
     android:layout_width="match_parent"
     android:layout_height="match_parent" >
 
@@ -123,13 +123,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/subsampling-scale-image-view
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [davemorrissey/subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
